@@ -6,6 +6,14 @@
   A minimal Vim color scheme based on Gruber Darker with custom enhancements.
 </div>
 
+## Why Gruber Ocean?
+
+I wanted a color scheme that:
+- Keeps types subtle (not distracting)
+- Makes functions stand out with cyan
+- Maintains the minimal philosophy of Gruber Darker
+- Automatically highlights custom C types (camera_t, vec3_t, etc.)
+
 ## Features
 
 - **Minimal syntax highlighting** - inspired by Tsoding's setup
@@ -30,7 +38,7 @@
 ### Using vim-plug
 
 ```vim
-Plug 'ruscito/gruber-ocean.vim'
+Plug 'ruscito/gruber-ocean'
 ```
 
 ### Using Vundle
