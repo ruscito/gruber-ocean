@@ -1,4 +1,4 @@
-# Gruber Darker Blue
+# Gruber Ocean
 
 A minimal Vim color scheme based on Gruber Darker with custom enhancements.
 
