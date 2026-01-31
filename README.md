@@ -1,0 +1,77 @@
+# Gruber Darker Blue
+
+A minimal Vim color scheme based on Gruber Darker with custom enhancements.
+
+## Features
+
+- **Minimal syntax highlighting** - inspired by Tsoding's setup
+- **Darker types** - subtle gray for type names (matches line numbers)
+- **Cyan function names** - soft muted cyan for better readability
+- **Keywords in yellow** - clear keyword visibility
+- **Strings in green** - easy to spot string literals
+- **Auto-highlighting** - custom types ending in `_t` or `_s` automatically highlighted
+
+## Color Palette
+
+- Background: Very dark gray (almost black)
+- Normal text: Bright white
+- Types: Gray (243) - same as line numbers
+- Keywords: Yellow (220)
+- Strings: Green (149)
+- Functions: Muted cyan (110)
+- Comments: Brown/orange (172)
+
+## Installation
+
+### Using vim-plug
+
+```vim
+Plug 'ruscito/gruber-ocean.vim'
+```
+
+### Using Vundle
+
+```vim
+Plugin 'ruscito/gruber-ocean.vim'
+```
+
+### Manual Installation
+
+1. Download `gruber-ocean.vim`
+2. Copy it to `~/.vim/colors/`
+   ```bash
+   mkdir -p ~/.vim/colors
+   cp gruber-ocean.vim ~/.vim/colors/
+   ```
+
+## Usage
+
+Add this to your `.vimrc`:
+
+```vim
+colorscheme gruber-ocean
+```
+
+## Screenshots
+
+![C Code Example](screenshot.png)
+
+## Language Support
+
+Specific highlighting for:
+- C/C++
+- Rust
+- Python
+- Go
+- JavaScript
+- HTML/CSS
+- Markdown
+- Lua
+
+## Credits
+
+Based on the [Gruber Darker](https://github.com/blazkowolf/gruber-darker.vim) color scheme, which itself is inspired by [Alexey Kutepov (Tsoding)'s](https://github.com/rexim) Emacs setup.
+
+## License
+
+MIT License - feel free to use and modify!
