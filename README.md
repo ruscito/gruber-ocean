@@ -1,6 +1,10 @@
-# Gruber Ocean
+<div align="center">
+  <img src="icon.png" alt="Gruber Ocean Icon" width="200"/>
 
-A minimal Vim color scheme based on Gruber Darker with custom enhancements.
+  # Gruber Ocean
+
+  A minimal Vim color scheme based on Gruber Darker with custom enhancements.
+</div>
 
 ## Features
 
