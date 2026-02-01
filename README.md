@@ -82,7 +82,7 @@ Specific highlighting for:
 
 ## Credits
 
-Based on the [Gruber Darker](https://github.com/blazkowolf/gruber-darker.vim) color scheme, which itself is inspired by [Alexey Kutepov (Tsoding)'s](https://github.com/rexim) Emacs setup.
+Based on the [Gruber Darker](https://github.com/blazkowolf/gruber-darker.nvim) color scheme, which itself is inspired by [Alexey Kutepov (Tsoding)'s](https://github.com/rexim) Emacs setup.
 
 ## License
 
